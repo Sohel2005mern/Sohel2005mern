@@ -11,6 +11,16 @@
 
 ---
 
+## 🛠 Tech Stack
+- Frontend: React.js, HTML, CSS, JavaScript
+- Backend: Node.js, Express.js
+- Database: MongoDB, MySQL
+- Programming: Java
+- Tools: Git, GitHub, VS Code
+
+---
+
+## 📌 Featured Projects
 ### 🤖 AI-Powered Interview Strategy Platform
 
 Full Stack AI Interview Preparation Platform (MERN)
@@ -25,16 +35,6 @@ Full Stack AI Interview Preparation Platform (MERN)
 
 ---
 
-## 🛠 Tech Stack
-- Frontend: React.js, HTML, CSS, JavaScript
-- Backend: Node.js, Express.js
-- Database: MongoDB, MySQL
-- Programming: Java
-- Tools: Git, GitHub, VS Code
-
----
-
-## 📌 Featured Projects
 ### 🔹 TradeSphere
 Full Stack Stock Trading Platform (MERN)  
 - JWT Authentication  
