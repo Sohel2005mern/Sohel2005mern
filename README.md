@@ -4,10 +4,24 @@
 ---
 
 ## 🚀 About Me
-- 🎓 3rd Year B.Tech CSE Student
-- 💻 Building Full Stack MERN Applications
+- 🎓 4rd Year B.Tech CSE Student
+- 💻 Building AI-Powered Full Stack MERN Applications
 - 📚 Practicing DSA in Java
 - 🔥 Interested in Backend & System Design
+
+---
+
+### 🤖 AI-Powered Interview Strategy Platform
+
+Full Stack AI Interview Preparation Platform (MERN)
+
+- Gemini AI Integration
+- Resume & Job Description Analysis
+- ATS Match Score
+- AI Interview Questions
+- Skill Gap Analysis
+- JWT Authentication
+- Protected REST APIs
 
 ---
 
